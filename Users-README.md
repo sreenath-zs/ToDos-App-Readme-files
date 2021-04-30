@@ -34,7 +34,7 @@ Start the services
     # systemctl enable users 
     # systemctl status users
 
-or 
+or run jar file 
 
     # java -jar target/users-api-0.0.1.jar
 
