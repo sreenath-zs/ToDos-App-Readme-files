@@ -60,6 +60,9 @@ Start the service
 
     # cd /var/www/html/frontend/
     # npm start 
+    
+    ![Screenshot (304)](https://user-images.githubusercontent.com/82632135/116674385-34d42500-a9c2-11eb-8c1e-8a4c832e14eb.png)
+
 
 
     
