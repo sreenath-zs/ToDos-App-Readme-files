@@ -27,9 +27,11 @@ Naviagte to frontend we use below command
 
     # cd frontend
 
-Now build the code 
-
+Now build the code Building and running
+ // install dependencies
     # npm install 
+
+ // build for production
     # npm run build 
 
 Now move to  the frontend.conf file 
@@ -42,7 +44,7 @@ Change the Path
     root /var/www/html ;  with  root /var/www/html/frontend/dist ;
 
 
-Export Login and Todo's Private ip's in root
+Export Login and Todo's Private ip's in root (Configuration)
 
     # export AUTH_IP_ADDRESS=http://<login Private ip>:8080
     # export TODOS_IP_ADDRESS=http://<ToDos Private ip>:8080

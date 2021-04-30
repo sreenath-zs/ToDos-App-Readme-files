@@ -25,8 +25,10 @@ Now build the code
     # npm install 
     # npm run build 
 
+Configuration // Redis_Host & PORT 
 
 Start the services
+    # /etc/systemd/system/todo.service(Set Environment )
 
     # systemctl daemon-reload
     # systemctl start todo 

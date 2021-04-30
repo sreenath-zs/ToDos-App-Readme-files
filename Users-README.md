@@ -19,13 +19,15 @@ Move systemd file
 
     # mv systemd.service /etc/systemd/system/users.service
 
-Build the code 
+Build the code (Buildiing and Running)
  
     # mvn clean
     # mvn Clean package
     # mvn run build 
 
 Start the services 
+
+    # vi /etc/systemd/system/users.service
 
     # systemctl daemon-reload
     # systemctl start users
