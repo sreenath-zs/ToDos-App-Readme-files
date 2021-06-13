@@ -29,12 +29,13 @@ Naviagte to frontend we use below command
 
 Now build the code Building and running
 
- 1. Install dependencies
- 2. 
-    # npm install 
+ 
+1. Install dependencies
+ 
+         # npm install 
 
  2. build for production
-    # npm run build 
+           # npm run build 
 
 Now move to  the frontend.conf file 
 
