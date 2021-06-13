@@ -35,7 +35,8 @@ Now build the code Building and running
          # npm install 
 
  2. build for production
-           # npm run build 
+ 
+             # npm run build 
 
 Now move to  the frontend.conf file 
 
